@@ -27,7 +27,7 @@ st.set_page_config(
 # LOAD DATA
 # ==========================================
 
-df = pd.read_csv("data/Nassau Candy Distributor.csv")
+df = pd.read_csv("Nassau Candy Distributor.csv")
 
 
 # ==========================================
