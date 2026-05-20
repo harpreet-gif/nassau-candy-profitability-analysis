@@ -114,25 +114,6 @@ The dataset contains:
 
 ---
 
-## 📂 Project Structure
-
-Nassau_Candy_Project/
-│
-├── data/
-│   └── Nassau Candy Distributor.csv
-│
-├── app.py
-├── analysis.ipynb
-├── requirements.txt
-├── README.md
-│
-├── reports/
-│   ├── research_paper.docx
-│   └── executive_summary.docx
-```
-
----
-
 ## 📈 Results
 - Identified highly profitable product lines
 - Detected low-margin high-sales products
